@@ -28,3 +28,6 @@ my_*
 /person.proto
 /person.desc
 /person_pb2.py
+
+# 환경변수
+.env
