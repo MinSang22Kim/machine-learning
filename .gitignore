@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*.bak
+*.bak.*
+*.old
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow / ML 관련
+*.ckpt
+checkpoint
+/logs
+/tf_logs
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# 기타
+my_*
+/images
+/datasets
+
+# Proto 관련
+/person.proto
+/person.desc
+/person_pb2.py
